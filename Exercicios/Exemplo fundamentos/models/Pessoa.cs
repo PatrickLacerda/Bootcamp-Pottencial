@@ -10,6 +10,8 @@ namespace Exemplo_fundamentos.models
         public string  Nome { get; set; }
         public int Idade { get; set; }
 
+        
+
         public  void Apresentar()
         {
             
