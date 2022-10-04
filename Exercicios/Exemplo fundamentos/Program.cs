@@ -9,13 +9,26 @@ decimal preco = 1.80m;
 bool condicao = true;
 DateTime dataAtual = DateTime.Now.AddDays(5); // add day adiciona dias 
 // conversores de string para inteiro
-//int a = Convert.ToInt32("5");
-int a = int.Parse("5");
-int b = 20;
+//int a = Convert.ToInt32("5"); aceita valor null
+//int a = int.Parse("5");
+//int b = 20;
 
-int c = a + b;
+//int c = a + b;
 
-Console.WriteLine(a);
+// conversão string 
+
+//int inteiro = 5;
+//string aa = inteiro.ToString(); // to string , conversão de inteiro para string 
+
+//Console.WriteLine(aa);
+
+//Console.WriteLine(a);
+
+string a ="15-";
+int b = 156;
+int.TryParse(a, out b);
+Console.WriteLine(b);
+Console.WriteLine("Conversão realizada com sucesso");
 
 Pessoa pessoa1  = new Pessoa();
 pessoa1.Nome ="Patrick Candido Lacerda";

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\workspace\\Bootcamp-Pottencial\\Exercicios\\Exemplo fundamentos\\Exemplo fundamentos.csproj": {}
+    "C:\\workspace\\Bootcamp-Pottencial\\Exercicios\\Operadores Logico\\Operadores Logico.csproj": {}
   },
   "projects": {
-    "C:\\workspace\\Bootcamp-Pottencial\\Exercicios\\Exemplo fundamentos\\Exemplo fundamentos.csproj": {
+    "C:\\workspace\\Bootcamp-Pottencial\\Exercicios\\Operadores Logico\\Operadores Logico.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\workspace\\Bootcamp-Pottencial\\Exercicios\\Exemplo fundamentos\\Exemplo fundamentos.csproj",
-        "projectName": "Exemplo fundamentos",
-        "projectPath": "C:\\workspace\\Bootcamp-Pottencial\\Exercicios\\Exemplo fundamentos\\Exemplo fundamentos.csproj",
+        "projectUniqueName": "C:\\workspace\\Bootcamp-Pottencial\\Exercicios\\Operadores Logico\\Operadores Logico.csproj",
+        "projectName": "Operadores Logico",
+        "projectPath": "C:\\workspace\\Bootcamp-Pottencial\\Exercicios\\Operadores Logico\\Operadores Logico.csproj",
         "packagesPath": "C:\\Users\\patrick.lacerda\\.nuget\\packages\\",
-        "outputPath": "C:\\workspace\\Bootcamp-Pottencial\\Exercicios\\Exemplo fundamentos\\obj\\",
+        "outputPath": "C:\\workspace\\Bootcamp-Pottencial\\Exercicios\\Operadores Logico\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\patrick.lacerda\\AppData\\Roaming\\NuGet\\NuGet.Config"

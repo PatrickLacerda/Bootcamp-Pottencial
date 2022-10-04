@@ -1,0 +1,15 @@
+C:\workspace\Bootcamp-Pottencial\Exercicios\Operadores Logico\bin\Debug\net6.0\Operadores Logico.exe
+C:\workspace\Bootcamp-Pottencial\Exercicios\Operadores Logico\bin\Debug\net6.0\Operadores Logico.deps.json
+C:\workspace\Bootcamp-Pottencial\Exercicios\Operadores Logico\bin\Debug\net6.0\Operadores Logico.runtimeconfig.json
+C:\workspace\Bootcamp-Pottencial\Exercicios\Operadores Logico\bin\Debug\net6.0\Operadores Logico.dll
+C:\workspace\Bootcamp-Pottencial\Exercicios\Operadores Logico\bin\Debug\net6.0\Operadores Logico.pdb
+C:\workspace\Bootcamp-Pottencial\Exercicios\Operadores Logico\obj\Debug\net6.0\Operadores Logico.csproj.AssemblyReference.cache
+C:\workspace\Bootcamp-Pottencial\Exercicios\Operadores Logico\obj\Debug\net6.0\Operadores Logico.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Bootcamp-Pottencial\Exercicios\Operadores Logico\obj\Debug\net6.0\Operadores Logico.AssemblyInfoInputs.cache
+C:\workspace\Bootcamp-Pottencial\Exercicios\Operadores Logico\obj\Debug\net6.0\Operadores Logico.AssemblyInfo.cs
+C:\workspace\Bootcamp-Pottencial\Exercicios\Operadores Logico\obj\Debug\net6.0\Operadores Logico.csproj.CoreCompileInputs.cache
+C:\workspace\Bootcamp-Pottencial\Exercicios\Operadores Logico\obj\Debug\net6.0\Operadores Logico.dll
+C:\workspace\Bootcamp-Pottencial\Exercicios\Operadores Logico\obj\Debug\net6.0\refint\Operadores Logico.dll
+C:\workspace\Bootcamp-Pottencial\Exercicios\Operadores Logico\obj\Debug\net6.0\Operadores Logico.pdb
+C:\workspace\Bootcamp-Pottencial\Exercicios\Operadores Logico\obj\Debug\net6.0\Operadores Logico.genruntimeconfig.cache
+C:\workspace\Bootcamp-Pottencial\Exercicios\Operadores Logico\obj\Debug\net6.0\ref\Operadores Logico.dll
