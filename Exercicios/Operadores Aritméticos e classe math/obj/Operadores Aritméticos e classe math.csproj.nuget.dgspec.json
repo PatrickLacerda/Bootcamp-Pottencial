@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\workspace\\Bootcamp-Pottencial\\Exercicios\\Operadores Aritméticos e classe math\\Operadores Aritméticos e classe math.csproj": {}
+  },
+  "projects": {
+    "C:\\workspace\\Bootcamp-Pottencial\\Exercicios\\Operadores Aritméticos e classe math\\Operadores Aritméticos e classe math.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\workspace\\Bootcamp-Pottencial\\Exercicios\\Operadores Aritméticos e classe math\\Operadores Aritméticos e classe math.csproj",
+        "projectName": "Operadores Aritméticos e classe math",
+        "projectPath": "C:\\workspace\\Bootcamp-Pottencial\\Exercicios\\Operadores Aritméticos e classe math\\Operadores Aritméticos e classe math.csproj",
+        "packagesPath": "C:\\Users\\patrick.lacerda\\.nuget\\packages\\",
+        "outputPath": "C:\\workspace\\Bootcamp-Pottencial\\Exercicios\\Operadores Aritméticos e classe math\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\patrick.lacerda\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

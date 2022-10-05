@@ -1,0 +1,5 @@
+C:\workspace\Bootcamp-Pottencial\Exercicios\Operadores Aritméticos e classe math\obj\Debug\net6.0\Operadores Aritméticos e classe math.csproj.AssemblyReference.cache
+C:\workspace\Bootcamp-Pottencial\Exercicios\Operadores Aritméticos e classe math\obj\Debug\net6.0\Operadores Aritméticos e classe math.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Bootcamp-Pottencial\Exercicios\Operadores Aritméticos e classe math\obj\Debug\net6.0\Operadores Aritméticos e classe math.AssemblyInfoInputs.cache
+C:\workspace\Bootcamp-Pottencial\Exercicios\Operadores Aritméticos e classe math\obj\Debug\net6.0\Operadores Aritméticos e classe math.AssemblyInfo.cs
+C:\workspace\Bootcamp-Pottencial\Exercicios\Operadores Aritméticos e classe math\obj\Debug\net6.0\Operadores Aritméticos e classe math.csproj.CoreCompileInputs.cache
