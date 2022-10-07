@@ -1,0 +1,15 @@
+C:\workspace\DIO\Bootcamp-Pottencial\Exercicios\Estrutura de repetição\bin\Debug\net6.0\Estrutura de repetição.exe
+C:\workspace\DIO\Bootcamp-Pottencial\Exercicios\Estrutura de repetição\bin\Debug\net6.0\Estrutura de repetição.deps.json
+C:\workspace\DIO\Bootcamp-Pottencial\Exercicios\Estrutura de repetição\bin\Debug\net6.0\Estrutura de repetição.runtimeconfig.json
+C:\workspace\DIO\Bootcamp-Pottencial\Exercicios\Estrutura de repetição\bin\Debug\net6.0\Estrutura de repetição.dll
+C:\workspace\DIO\Bootcamp-Pottencial\Exercicios\Estrutura de repetição\bin\Debug\net6.0\Estrutura de repetição.pdb
+C:\workspace\DIO\Bootcamp-Pottencial\Exercicios\Estrutura de repetição\obj\Debug\net6.0\Estrutura de repetição.csproj.AssemblyReference.cache
+C:\workspace\DIO\Bootcamp-Pottencial\Exercicios\Estrutura de repetição\obj\Debug\net6.0\Estrutura de repetição.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\DIO\Bootcamp-Pottencial\Exercicios\Estrutura de repetição\obj\Debug\net6.0\Estrutura de repetição.AssemblyInfoInputs.cache
+C:\workspace\DIO\Bootcamp-Pottencial\Exercicios\Estrutura de repetição\obj\Debug\net6.0\Estrutura de repetição.AssemblyInfo.cs
+C:\workspace\DIO\Bootcamp-Pottencial\Exercicios\Estrutura de repetição\obj\Debug\net6.0\Estrutura de repetição.csproj.CoreCompileInputs.cache
+C:\workspace\DIO\Bootcamp-Pottencial\Exercicios\Estrutura de repetição\obj\Debug\net6.0\Estrutura de repetição.dll
+C:\workspace\DIO\Bootcamp-Pottencial\Exercicios\Estrutura de repetição\obj\Debug\net6.0\refint\Estrutura de repetição.dll
+C:\workspace\DIO\Bootcamp-Pottencial\Exercicios\Estrutura de repetição\obj\Debug\net6.0\Estrutura de repetição.pdb
+C:\workspace\DIO\Bootcamp-Pottencial\Exercicios\Estrutura de repetição\obj\Debug\net6.0\Estrutura de repetição.genruntimeconfig.cache
+C:\workspace\DIO\Bootcamp-Pottencial\Exercicios\Estrutura de repetição\obj\Debug\net6.0\ref\Estrutura de repetição.dll

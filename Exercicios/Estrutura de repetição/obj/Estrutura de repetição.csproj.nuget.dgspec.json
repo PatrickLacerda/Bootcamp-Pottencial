@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\workspace\\DIO\\Bootcamp-Pottencial\\Exercicios\\Operadores Aritméticos e classe math\\Operadores Aritméticos e classe math.csproj": {}
+    "C:\\workspace\\DIO\\Bootcamp-Pottencial\\Exercicios\\Estrutura de repetição\\Estrutura de repetição.csproj": {}
   },
   "projects": {
-    "C:\\workspace\\DIO\\Bootcamp-Pottencial\\Exercicios\\Operadores Aritméticos e classe math\\Operadores Aritméticos e classe math.csproj": {
+    "C:\\workspace\\DIO\\Bootcamp-Pottencial\\Exercicios\\Estrutura de repetição\\Estrutura de repetição.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\workspace\\DIO\\Bootcamp-Pottencial\\Exercicios\\Operadores Aritméticos e classe math\\Operadores Aritméticos e classe math.csproj",
-        "projectName": "Operadores Aritméticos e classe math",
-        "projectPath": "C:\\workspace\\DIO\\Bootcamp-Pottencial\\Exercicios\\Operadores Aritméticos e classe math\\Operadores Aritméticos e classe math.csproj",
+        "projectUniqueName": "C:\\workspace\\DIO\\Bootcamp-Pottencial\\Exercicios\\Estrutura de repetição\\Estrutura de repetição.csproj",
+        "projectName": "Estrutura de repetição",
+        "projectPath": "C:\\workspace\\DIO\\Bootcamp-Pottencial\\Exercicios\\Estrutura de repetição\\Estrutura de repetição.csproj",
         "packagesPath": "C:\\Users\\patri\\.nuget\\packages\\",
-        "outputPath": "C:\\workspace\\DIO\\Bootcamp-Pottencial\\Exercicios\\Operadores Aritméticos e classe math\\obj\\",
+        "outputPath": "C:\\workspace\\DIO\\Bootcamp-Pottencial\\Exercicios\\Estrutura de repetição\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\patri\\AppData\\Roaming\\NuGet\\NuGet.Config",

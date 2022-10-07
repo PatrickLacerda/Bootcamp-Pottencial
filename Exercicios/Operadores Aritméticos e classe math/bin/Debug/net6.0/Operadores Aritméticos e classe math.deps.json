@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Operadores Aritméticos e classe math/1.0.0": {
+        "runtime": {
+          "Operadores Aritméticos e classe math.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Operadores Aritméticos e classe math/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
