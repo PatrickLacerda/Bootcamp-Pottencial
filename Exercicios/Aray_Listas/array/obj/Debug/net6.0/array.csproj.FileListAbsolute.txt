@@ -1,0 +1,23 @@
+C:\workspace\Bootcamp-Pottencial\Exercicios\Aray_Listas\array\bin\Debug\net6.0\array.exe
+C:\workspace\Bootcamp-Pottencial\Exercicios\Aray_Listas\array\bin\Debug\net6.0\array.deps.json
+C:\workspace\Bootcamp-Pottencial\Exercicios\Aray_Listas\array\bin\Debug\net6.0\array.runtimeconfig.json
+C:\workspace\Bootcamp-Pottencial\Exercicios\Aray_Listas\array\bin\Debug\net6.0\array.dll
+C:\workspace\Bootcamp-Pottencial\Exercicios\Aray_Listas\array\bin\Debug\net6.0\array.pdb
+C:\workspace\Bootcamp-Pottencial\Exercicios\Aray_Listas\array\obj\Debug\net6.0\array.csproj.AssemblyReference.cache
+C:\workspace\Bootcamp-Pottencial\Exercicios\Aray_Listas\array\obj\Debug\net6.0\array.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Bootcamp-Pottencial\Exercicios\Aray_Listas\array\obj\Debug\net6.0\array.AssemblyInfoInputs.cache
+C:\workspace\Bootcamp-Pottencial\Exercicios\Aray_Listas\array\obj\Debug\net6.0\array.AssemblyInfo.cs
+C:\workspace\Bootcamp-Pottencial\Exercicios\Aray_Listas\array\obj\Debug\net6.0\array.csproj.CoreCompileInputs.cache
+C:\workspace\Bootcamp-Pottencial\Exercicios\Aray_Listas\array\obj\Debug\net6.0\array.dll
+C:\workspace\Bootcamp-Pottencial\Exercicios\Aray_Listas\array\obj\Debug\net6.0\refint\array.dll
+C:\workspace\Bootcamp-Pottencial\Exercicios\Aray_Listas\array\obj\Debug\net6.0\array.pdb
+C:\workspace\Bootcamp-Pottencial\Exercicios\Aray_Listas\array\obj\Debug\net6.0\array.genruntimeconfig.cache
+C:\workspace\Bootcamp-Pottencial\Exercicios\Aray_Listas\array\obj\Debug\net6.0\ref\array.dll
+C:\workspace\Bootcamp-Pottencial\Exercicios\Aray_Listas\array\bin\Debug\net6.0\Operadores Logico.deps.json
+C:\workspace\Bootcamp-Pottencial\Exercicios\Aray_Listas\array\bin\Debug\net6.0\Operadores Logico.runtimeconfig.json
+C:\workspace\Bootcamp-Pottencial\Exercicios\Aray_Listas\array\bin\Debug\net6.0\Operadores Logico.exe
+C:\workspace\Bootcamp-Pottencial\Exercicios\Aray_Listas\array\bin\Debug\net6.0\ExemploFundamentos.common.dll
+C:\workspace\Bootcamp-Pottencial\Exercicios\Aray_Listas\array\bin\Debug\net6.0\Operadores Logico.dll
+C:\workspace\Bootcamp-Pottencial\Exercicios\Aray_Listas\array\bin\Debug\net6.0\ExemploFundamentos.common.pdb
+C:\workspace\Bootcamp-Pottencial\Exercicios\Aray_Listas\array\bin\Debug\net6.0\Operadores Logico.pdb
+C:\workspace\Bootcamp-Pottencial\Exercicios\Aray_Listas\array\obj\Debug\net6.0\array.csproj.CopyComplete

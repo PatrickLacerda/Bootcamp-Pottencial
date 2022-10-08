@@ -1,0 +1,18 @@
+C:\workspace\Bootcamp-Pottencial\Exercicios\Conhecendo a Organização de um programa C#\ExemploFundamentos.common\bin\Debug\net6.0\ExemploFundamentos.common.deps.json
+C:\workspace\Bootcamp-Pottencial\Exercicios\Conhecendo a Organização de um programa C#\ExemploFundamentos.common\bin\Debug\net6.0\ExemploFundamentos.common.dll
+C:\workspace\Bootcamp-Pottencial\Exercicios\Conhecendo a Organização de um programa C#\ExemploFundamentos.common\bin\Debug\net6.0\ExemploFundamentos.common.pdb
+C:\workspace\Bootcamp-Pottencial\Exercicios\Conhecendo a Organização de um programa C#\ExemploFundamentos.common\obj\Debug\net6.0\ExemploFundamentos.common.csproj.AssemblyReference.cache
+C:\workspace\Bootcamp-Pottencial\Exercicios\Conhecendo a Organização de um programa C#\ExemploFundamentos.common\obj\Debug\net6.0\ExemploFundamentos.common.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Bootcamp-Pottencial\Exercicios\Conhecendo a Organização de um programa C#\ExemploFundamentos.common\obj\Debug\net6.0\ExemploFundamentos.common.AssemblyInfoInputs.cache
+C:\workspace\Bootcamp-Pottencial\Exercicios\Conhecendo a Organização de um programa C#\ExemploFundamentos.common\obj\Debug\net6.0\ExemploFundamentos.common.AssemblyInfo.cs
+C:\workspace\Bootcamp-Pottencial\Exercicios\Conhecendo a Organização de um programa C#\ExemploFundamentos.common\obj\Debug\net6.0\ExemploFundamentos.common.csproj.CoreCompileInputs.cache
+C:\workspace\Bootcamp-Pottencial\Exercicios\Conhecendo a Organização de um programa C#\ExemploFundamentos.common\obj\Debug\net6.0\ExemploFundamentos.common.dll
+C:\workspace\Bootcamp-Pottencial\Exercicios\Conhecendo a Organização de um programa C#\ExemploFundamentos.common\obj\Debug\net6.0\refint\ExemploFundamentos.common.dll
+C:\workspace\Bootcamp-Pottencial\Exercicios\Conhecendo a Organização de um programa C#\ExemploFundamentos.common\obj\Debug\net6.0\ExemploFundamentos.common.pdb
+C:\workspace\Bootcamp-Pottencial\Exercicios\Conhecendo a Organização de um programa C#\ExemploFundamentos.common\obj\Debug\net6.0\ref\ExemploFundamentos.common.dll
+C:\workspace\Bootcamp-Pottencial\Exercicios\Conhecendo a Organização de um programa C#\ExemploFundamentos.common\bin\Debug\net6.0\Operadores Logico.deps.json
+C:\workspace\Bootcamp-Pottencial\Exercicios\Conhecendo a Organização de um programa C#\ExemploFundamentos.common\bin\Debug\net6.0\Operadores Logico.runtimeconfig.json
+C:\workspace\Bootcamp-Pottencial\Exercicios\Conhecendo a Organização de um programa C#\ExemploFundamentos.common\bin\Debug\net6.0\Operadores Logico.exe
+C:\workspace\Bootcamp-Pottencial\Exercicios\Conhecendo a Organização de um programa C#\ExemploFundamentos.common\bin\Debug\net6.0\Operadores Logico.dll
+C:\workspace\Bootcamp-Pottencial\Exercicios\Conhecendo a Organização de um programa C#\ExemploFundamentos.common\bin\Debug\net6.0\Operadores Logico.pdb
+C:\workspace\Bootcamp-Pottencial\Exercicios\Conhecendo a Organização de um programa C#\ExemploFundamentos.common\obj\Debug\net6.0\ExemploFundamentos.common.csproj.CopyComplete

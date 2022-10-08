@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "array/1.0.0": {
+        "dependencies": {
+          "ExemploFundamentos.common": "1.0.0"
+        },
+        "runtime": {
+          "array.dll": {}
+        }
+      },
+      "ExemploFundamentos.common/1.0.0": {
+        "dependencies": {
+          "Operadores Logico": "1.0.0"
+        },
+        "runtime": {
+          "ExemploFundamentos.common.dll": {}
+        }
+      },
+      "Operadores Logico/1.0.0": {
+        "runtime": {
+          "Operadores Logico.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExemploFundamentos.common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Operadores Logico/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
