@@ -7,16 +7,30 @@ namespace ExemploFundamento.OperadoresAritimeticos.Common.models
 {
     public class Calculadora 
     {
-         public void Somar(int x , int y)
+        /// <summary>
+        /// Realiza uma soma de dois numeros.
+        /// </summary>
+        /// <param name="x">O primeiro numero inteiro para somar</param>
+        /// <param name="y">O segundo numero inteiro para somar</param>
+        public void Somar(int x , int y)
          {
             Console.WriteLine ($"{x} + {y} = {x + y}");
 
          }
-         public void Subtrair(int x , int y)
+
+         
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="x">O primeiro numero inteiro</param>
+        /// <param name="y">O Segundo numero inteiro</param>
+        /// <returns>Retorna a subtração de x e y </returns>
+         public int Subtrair(int x , int y)
          {
             Console.WriteLine ($"{x} - {y} = {x - y}");
+            return x;
 
-         }
+        }
         
         public void Multiplicar(int x , int y)
          {

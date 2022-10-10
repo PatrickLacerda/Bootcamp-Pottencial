@@ -27,29 +27,34 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\patrick.lacerda\\.nuget\\packages\\": {}
+    "C:\\Users\\patri\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\workspace\\Bootcamp-Pottencial\\Exercicios\\Conhecendo a Organização de um programa C#\\ExemploFundamentos.common\\ExemploFundamentos.common.csproj",
+      "projectUniqueName": "C:\\workspace\\DIO\\Bootcamp-Pottencial\\Exercicios\\Conhecendo a Organização de um programa C#\\ExemploFundamentos.common\\ExemploFundamentos.common.csproj",
       "projectName": "ExemploFundamentos.common",
-      "projectPath": "C:\\workspace\\Bootcamp-Pottencial\\Exercicios\\Conhecendo a Organização de um programa C#\\ExemploFundamentos.common\\ExemploFundamentos.common.csproj",
-      "packagesPath": "C:\\Users\\patrick.lacerda\\.nuget\\packages\\",
-      "outputPath": "C:\\workspace\\Bootcamp-Pottencial\\Exercicios\\Conhecendo a Organização de um programa C#\\ExemploFundamentos.common\\obj\\",
+      "projectPath": "C:\\workspace\\DIO\\Bootcamp-Pottencial\\Exercicios\\Conhecendo a Organização de um programa C#\\ExemploFundamentos.common\\ExemploFundamentos.common.csproj",
+      "packagesPath": "C:\\Users\\patri\\.nuget\\packages\\",
+      "outputPath": "C:\\workspace\\DIO\\Bootcamp-Pottencial\\Exercicios\\Conhecendo a Organização de um programa C#\\ExemploFundamentos.common\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\patrick.lacerda\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\patri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\workspace\\Bootcamp-Pottencial\\Exercicios\\Operadores Logico\\Operadores Logico.csproj": {
-              "projectPath": "C:\\workspace\\Bootcamp-Pottencial\\Exercicios\\Operadores Logico\\Operadores Logico.csproj"
+            "C:\\workspace\\DIO\\Bootcamp-Pottencial\\Exercicios\\Operadores Logico\\Operadores Logico.csproj": {
+              "projectPath": "C:\\workspace\\DIO\\Bootcamp-Pottencial\\Exercicios\\Operadores Logico\\Operadores Logico.csproj"
             }
           }
         }

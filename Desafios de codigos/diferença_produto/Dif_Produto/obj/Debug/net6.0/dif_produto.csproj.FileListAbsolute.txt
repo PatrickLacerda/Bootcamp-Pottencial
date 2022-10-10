@@ -1,0 +1,15 @@
+C:\workspace\DIO\Bootcamp-Pottencial\Desafios de codigos\diferença_produto\dif_produto\bin\Debug\net6.0\dif_produto.exe
+C:\workspace\DIO\Bootcamp-Pottencial\Desafios de codigos\diferença_produto\dif_produto\bin\Debug\net6.0\dif_produto.deps.json
+C:\workspace\DIO\Bootcamp-Pottencial\Desafios de codigos\diferença_produto\dif_produto\bin\Debug\net6.0\dif_produto.runtimeconfig.json
+C:\workspace\DIO\Bootcamp-Pottencial\Desafios de codigos\diferença_produto\dif_produto\bin\Debug\net6.0\dif_produto.dll
+C:\workspace\DIO\Bootcamp-Pottencial\Desafios de codigos\diferença_produto\dif_produto\bin\Debug\net6.0\dif_produto.pdb
+C:\workspace\DIO\Bootcamp-Pottencial\Desafios de codigos\diferença_produto\dif_produto\obj\Debug\net6.0\dif_produto.csproj.AssemblyReference.cache
+C:\workspace\DIO\Bootcamp-Pottencial\Desafios de codigos\diferença_produto\dif_produto\obj\Debug\net6.0\dif_produto.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\DIO\Bootcamp-Pottencial\Desafios de codigos\diferença_produto\dif_produto\obj\Debug\net6.0\dif_produto.AssemblyInfoInputs.cache
+C:\workspace\DIO\Bootcamp-Pottencial\Desafios de codigos\diferença_produto\dif_produto\obj\Debug\net6.0\dif_produto.AssemblyInfo.cs
+C:\workspace\DIO\Bootcamp-Pottencial\Desafios de codigos\diferença_produto\dif_produto\obj\Debug\net6.0\dif_produto.csproj.CoreCompileInputs.cache
+C:\workspace\DIO\Bootcamp-Pottencial\Desafios de codigos\diferença_produto\dif_produto\obj\Debug\net6.0\dif_produto.dll
+C:\workspace\DIO\Bootcamp-Pottencial\Desafios de codigos\diferença_produto\dif_produto\obj\Debug\net6.0\refint\dif_produto.dll
+C:\workspace\DIO\Bootcamp-Pottencial\Desafios de codigos\diferença_produto\dif_produto\obj\Debug\net6.0\dif_produto.pdb
+C:\workspace\DIO\Bootcamp-Pottencial\Desafios de codigos\diferença_produto\dif_produto\obj\Debug\net6.0\dif_produto.genruntimeconfig.cache
+C:\workspace\DIO\Bootcamp-Pottencial\Desafios de codigos\diferença_produto\dif_produto\obj\Debug\net6.0\ref\dif_produto.dll
