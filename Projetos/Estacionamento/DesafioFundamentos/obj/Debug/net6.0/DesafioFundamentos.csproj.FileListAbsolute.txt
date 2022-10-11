@@ -13,3 +13,18 @@ C:\workspace\Bootcamp-Pottencial\Projetos\trilha-net-fundamentos-desafio - Estac
 C:\workspace\Bootcamp-Pottencial\Projetos\trilha-net-fundamentos-desafio - Estacionamento\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.pdb
 C:\workspace\Bootcamp-Pottencial\Projetos\trilha-net-fundamentos-desafio - Estacionamento\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.genruntimeconfig.cache
 C:\workspace\Bootcamp-Pottencial\Projetos\trilha-net-fundamentos-desafio - Estacionamento\DesafioFundamentos\obj\Debug\net6.0\ref\DesafioFundamentos.dll
+C:\workspace\DIO\Bootcamp-Pottencial\Projetos\Estacionamento\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.exe
+C:\workspace\DIO\Bootcamp-Pottencial\Projetos\Estacionamento\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.deps.json
+C:\workspace\DIO\Bootcamp-Pottencial\Projetos\Estacionamento\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.runtimeconfig.json
+C:\workspace\DIO\Bootcamp-Pottencial\Projetos\Estacionamento\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.dll
+C:\workspace\DIO\Bootcamp-Pottencial\Projetos\Estacionamento\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.pdb
+C:\workspace\DIO\Bootcamp-Pottencial\Projetos\Estacionamento\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.csproj.AssemblyReference.cache
+C:\workspace\DIO\Bootcamp-Pottencial\Projetos\Estacionamento\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\DIO\Bootcamp-Pottencial\Projetos\Estacionamento\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.AssemblyInfoInputs.cache
+C:\workspace\DIO\Bootcamp-Pottencial\Projetos\Estacionamento\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.AssemblyInfo.cs
+C:\workspace\DIO\Bootcamp-Pottencial\Projetos\Estacionamento\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.csproj.CoreCompileInputs.cache
+C:\workspace\DIO\Bootcamp-Pottencial\Projetos\Estacionamento\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.dll
+C:\workspace\DIO\Bootcamp-Pottencial\Projetos\Estacionamento\DesafioFundamentos\obj\Debug\net6.0\refint\DesafioFundamentos.dll
+C:\workspace\DIO\Bootcamp-Pottencial\Projetos\Estacionamento\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.pdb
+C:\workspace\DIO\Bootcamp-Pottencial\Projetos\Estacionamento\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.genruntimeconfig.cache
+C:\workspace\DIO\Bootcamp-Pottencial\Projetos\Estacionamento\DesafioFundamentos\obj\Debug\net6.0\ref\DesafioFundamentos.dll
