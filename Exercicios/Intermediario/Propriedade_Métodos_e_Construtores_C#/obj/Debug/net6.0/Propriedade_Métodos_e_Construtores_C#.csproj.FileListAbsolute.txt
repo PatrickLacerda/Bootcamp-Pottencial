@@ -1,0 +1,15 @@
+C:\workspace\Bootcamp-Pottencial\Exercicios\Intermediario\Propriedade_Métodos_e_Construtores_C#\bin\Debug\net6.0\Propriedade_Métodos_e_Construtores_C#.exe
+C:\workspace\Bootcamp-Pottencial\Exercicios\Intermediario\Propriedade_Métodos_e_Construtores_C#\bin\Debug\net6.0\Propriedade_Métodos_e_Construtores_C#.deps.json
+C:\workspace\Bootcamp-Pottencial\Exercicios\Intermediario\Propriedade_Métodos_e_Construtores_C#\bin\Debug\net6.0\Propriedade_Métodos_e_Construtores_C#.runtimeconfig.json
+C:\workspace\Bootcamp-Pottencial\Exercicios\Intermediario\Propriedade_Métodos_e_Construtores_C#\bin\Debug\net6.0\Propriedade_Métodos_e_Construtores_C#.dll
+C:\workspace\Bootcamp-Pottencial\Exercicios\Intermediario\Propriedade_Métodos_e_Construtores_C#\bin\Debug\net6.0\Propriedade_Métodos_e_Construtores_C#.pdb
+C:\workspace\Bootcamp-Pottencial\Exercicios\Intermediario\Propriedade_Métodos_e_Construtores_C#\obj\Debug\net6.0\Propriedade_Métodos_e_Construtores_C#.csproj.AssemblyReference.cache
+C:\workspace\Bootcamp-Pottencial\Exercicios\Intermediario\Propriedade_Métodos_e_Construtores_C#\obj\Debug\net6.0\Propriedade_Métodos_e_Construtores_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Bootcamp-Pottencial\Exercicios\Intermediario\Propriedade_Métodos_e_Construtores_C#\obj\Debug\net6.0\Propriedade_Métodos_e_Construtores_C#.AssemblyInfoInputs.cache
+C:\workspace\Bootcamp-Pottencial\Exercicios\Intermediario\Propriedade_Métodos_e_Construtores_C#\obj\Debug\net6.0\Propriedade_Métodos_e_Construtores_C#.AssemblyInfo.cs
+C:\workspace\Bootcamp-Pottencial\Exercicios\Intermediario\Propriedade_Métodos_e_Construtores_C#\obj\Debug\net6.0\Propriedade_Métodos_e_Construtores_C#.csproj.CoreCompileInputs.cache
+C:\workspace\Bootcamp-Pottencial\Exercicios\Intermediario\Propriedade_Métodos_e_Construtores_C#\obj\Debug\net6.0\Propriedade_Métodos_e_Construtores_C#.dll
+C:\workspace\Bootcamp-Pottencial\Exercicios\Intermediario\Propriedade_Métodos_e_Construtores_C#\obj\Debug\net6.0\refint\Propriedade_Métodos_e_Construtores_C#.dll
+C:\workspace\Bootcamp-Pottencial\Exercicios\Intermediario\Propriedade_Métodos_e_Construtores_C#\obj\Debug\net6.0\Propriedade_Métodos_e_Construtores_C#.pdb
+C:\workspace\Bootcamp-Pottencial\Exercicios\Intermediario\Propriedade_Métodos_e_Construtores_C#\obj\Debug\net6.0\Propriedade_Métodos_e_Construtores_C#.genruntimeconfig.cache
+C:\workspace\Bootcamp-Pottencial\Exercicios\Intermediario\Propriedade_Métodos_e_Construtores_C#\obj\Debug\net6.0\ref\Propriedade_Métodos_e_Construtores_C#.dll
