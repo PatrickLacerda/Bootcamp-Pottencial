@@ -4,13 +4,17 @@ using System.Linq;
 using System.Threading.Tasks;
 
 namespace Propriedade_Métodos_e_Construtores_C_.Models
+
+// public qualquer um pode acessar a sua class ou instanciar a classe
+
 {
     public class Pessoa
     {   
-        private string _nome;
-        public string  Nome 
+        private string _nome; // private só é permitido acessar dentro da propria classe - Campo um valor que vai armazenar o nome
+        public string  Nome // public  qualquer um pode acessar a propridade 
         { 
-            get => _nome.ToUpper(); // => deixa o codigo mais limpo, retornando valores da variavel
+            get => _nome.ToUpper(); // => deixa o codigo mais limpo, retornando valores da variavel ( Body Expression)
+            // quando tem get ou set é uma propriedade
             // get
             // {
             //     return _nome.ToUpper(); //ToUpperconverter o nome para maiuculo 
@@ -25,15 +29,39 @@ namespace Propriedade_Métodos_e_Construtores_C_.Models
                 
                 }
 
-                _nome = value;
+                _nome = value; // pode ser usado set => _nome = value; 
             } 
         }    
+
+
+        public string  Sobrenome { get; set; }
+
+        public string  NomeCompleto => $"{Nome} { Sobrenome}".ToUpper() ; // combinar propriedades em uma unica propriedade, somente leitura, sem o Set
          
-        public int Idade { get; set; }
+         private int _idade;
+        public int Idade
+         { 
+            
+            get => _idade;
+            
+            set
+            {
+                if (value <0) 
+                {
+                    throw new ArgumentException ("A idade não pode ser menor que zero");
+                }
+
+                _idade = value;
+            }
+         
+         
+         }
+
+        
 
         public void Apresentar()
         {
-            Console.Write($"NOME: {Nome}, Idade: {Idade}");
+            Console.Write($"NOME: {NomeCompleto}, Idade: {Idade}");
         }
 
        

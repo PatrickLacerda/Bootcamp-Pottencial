@@ -3,7 +3,9 @@ using Propriedade_Métodos_e_Construtores_C_.Models;
 
 Pessoa p1 = new Pessoa();
 
-p1.Nome = "Patrick";
-p1.Idade = 36;
+
+p1.Nome = "Patrick"; // quando tiver uma chave inglesa, representa uma proriedade 
+p1.Sobrenome = "Lacerda";
+p1.Idade = 20;
 p1.Apresentar();
 
