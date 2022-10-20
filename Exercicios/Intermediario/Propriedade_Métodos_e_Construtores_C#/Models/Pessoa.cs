@@ -10,6 +10,15 @@ namespace Propriedade_Métodos_e_Construtores_C_.Models
 {
     public class Pessoa
     {   
+        public Pessoa()
+        {
+            
+        }
+        public Pessoa(string nome, string sobrenome) // todo construtor vai ter o mesmo nome da sua classe e não tem um tipo de retorno
+        {
+            Nome = nome;
+            Sobrenome = sobrenome;
+        }
         private string _nome; // private só é permitido acessar dentro da propria classe - Campo um valor que vai armazenar o nome
         public string  Nome // public  qualquer um pode acessar a propridade 
         { 
