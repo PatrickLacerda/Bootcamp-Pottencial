@@ -34,7 +34,12 @@ namespace Propriedade_Métodos_e_Construtores_C_.Models
 
             for (int count = 0; count < Alunos.Count; count++)
             {
-                string texto = "Nº" + count + " - " + Alunos[count].NomeCompleto; // sinal de + conctenação
+                //string texto = "Nº" + count + " - " + Alunos[count].NomeCompleto; // sinal de + conctenação
+                string texto = $"Nº {count +1} - {Alunos[count].NomeCompleto}"; // interpolação de string - $ antes do " Duplo
+                // outro metodo de conctenação
+
+
+
                 Console.WriteLine(texto);
                             }
             // foreach (Pessoa aluno in Alunos)
