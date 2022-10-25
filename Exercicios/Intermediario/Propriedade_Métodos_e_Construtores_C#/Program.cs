@@ -1,19 +1,49 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using Propriedade_Métodos_e_Construtores_C_.Models;
+using System.Globalization; // importa a classe para poder mudar o padrão da moeda 
 
-Pessoa p1 = new Pessoa(nome: "Leonardo", sobrenome: "Buta");
-Pessoa p2 = new Pessoa(nome: "Patrick",sobrenome: "Lacerda");
-Pessoa p3 = new Pessoa(nome: "Eduardo",sobrenome: "Queiroz");
+CultureInfo.DefaultThreadCurrentCulture = new CultureInfo("en-US"); // mudou para moeda americana de acorod com a cultura do sistema colocado
+
+decimal valorMonetario = 1582.40M;
 
 
-Curso cursoDeIngles = new Curso();
-cursoDeIngles.Nome = "Ingles";
-cursoDeIngles.Alunos = new List<Pessoa>();
+Console.WriteLine($"{valorMonetario:C}");// quando faço interpolação de string e coloco 2: significa que eu quero formatar
+// o valor por exemplo :C - formata o valor em uma moeda - Formatação se baseia na localização do sistema.
 
-cursoDeIngles.AdicionarAluno(p1);
-cursoDeIngles.AdicionarAluno(p2);
-cursoDeIngles.AdicionarAluno(p3);
-cursoDeIngles.ListarAlunos();
+
+
+
+
+
+
+
+// string numero1 = "10";
+// string numero2 = "20";
+
+// string resultado = numero1 + numero2;
+
+// Console.WriteLine(resultado);
+
+
+
+
+
+
+
+
+// Pessoa p1 = new Pessoa(nome: "Leonardo", sobrenome: "Buta");
+// Pessoa p2 = new Pessoa(nome: "Patrick",sobrenome: "Lacerda");
+// Pessoa p3 = new Pessoa(nome: "Eduardo",sobrenome: "Queiroz");
+
+
+// Curso cursoDeIngles = new Curso();
+// cursoDeIngles.Nome = "Ingles";
+// cursoDeIngles.Alunos = new List<Pessoa>();
+
+// cursoDeIngles.AdicionarAluno(p1);
+// cursoDeIngles.AdicionarAluno(p2);
+// cursoDeIngles.AdicionarAluno(p3);
+// cursoDeIngles.ListarAlunos();
 
 
 
