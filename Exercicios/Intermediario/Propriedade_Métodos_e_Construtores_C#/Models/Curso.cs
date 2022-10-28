@@ -33,7 +33,8 @@ namespace Propriedade_Métodos_e_Construtores_C_.Models
             Console.WriteLine($"Aluno do curso de {Nome}");
 
             for (int count = 0; count < Alunos.Count; count++)
-            {
+            {   
+                //int exibição = count +1;
                 //string texto = "Nº" + count + " - " + Alunos[count].NomeCompleto; // sinal de + conctenação
                 string texto = $"Nº {count +1} - {Alunos[count].NomeCompleto}"; // interpolação de string - $ antes do " Duplo
                 // outro metodo de conctenação

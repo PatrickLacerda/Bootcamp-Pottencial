@@ -2,9 +2,50 @@
 using Propriedade_Métodos_e_Construtores_C_.Models;
 using System.Globalization; // importa a classe para poder mudar o padrão da moeda 
 
-string dataString = "2022-04-17 18:00";
 
-DateTime.TryParseExact(dataString,"yyyy-MM-dd HH:mm",CultureInfo.InvariantCulture,DateTimeStyles.None, out DateTime data); 
+
+// EXCEÇÕES E COLEÇÕES
+
+try // tente fazer alguma coisa , ele vai executar o código com mais cautela, porem está ciente que pode acontecer algum erro
+
+{
+
+    string[] linhas = File.ReadAllLines("Arquivos/arquivo_Leitura.txt");
+
+    foreach (string linha in linhas)
+    {
+        Console.WriteLine(linha);
+    }
+
+
+} catch (Exception ex) // catch significa pegar , obter - o codigo vai pegar a excessão 
+{
+    Console.WriteLine($"Ocorreu uma excessão genérica. {ex.Message}");
+}
+
+
+
+
+
+
+
+
+
+//MANIMULÇÃO DE DATAS 
+
+// string dataString = "2022-04-17 18:00";
+
+// bool dataValidada = DateTime.TryParseExact(dataString,"yyyy-MM-dd HH:mm",CultureInfo.InvariantCulture,DateTimeStyles.None, out DateTime data); 
+
+// if (dataValidada)
+// {
+//     Console.WriteLine($"Conversão com sucesso Data: {data}");
+// }
+// else
+// {
+//     Console.WriteLine($" {dataValidada} não é uma data válida");
+// }
+
 // converte a data para o formato desajado
 // ele vai receber a string que quero converter, formato que ela está, depois pede a cultura
 //InvariantCulture  se, cultura especifica, estilo do date time(DateTimeStyles.None - caso não queira estilo), depois a saida out date time para variavel data
@@ -15,7 +56,7 @@ DateTime.TryParseExact(dataString,"yyyy-MM-dd HH:mm",CultureInfo.InvariantCultur
 //Console.WriteLine(data.ToString("dd/MM/yyyy HH:mm")); // formatação de data
 //Console.WriteLine(data.ToShortDateString()); // fornece apenas a data
 //Console.WriteLine(data.ToShortTimeString()); // fornece apenas a hora
-Console.WriteLine(data);
+//Console.WriteLine(data);
 
 
 
