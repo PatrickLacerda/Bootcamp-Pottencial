@@ -4,24 +4,46 @@ using System.Globalization; // importa a classe para poder mudar o padrão da mo
 
 
 
+new ExemploExcecao().metodo1();
+
+
 // EXCEÇÕES E COLEÇÕES
 
-try // tente fazer alguma coisa , ele vai executar o código com mais cautela, porem está ciente que pode acontecer algum erro
+// try // tente fazer alguma coisa , ele vai executar o código com mais cautela, porem está ciente que pode acontecer algum erro
 
-{
+// {
 
-    string[] linhas = File.ReadAllLines("Arquivos/arquivo_Leitura.txt");
+//     string[] linhas = File.ReadAllLines("Arquivos/arquivoLeitura.txt");
 
-    foreach (string linha in linhas)
-    {
-        Console.WriteLine(linha);
-    }
+//     foreach (string linha in linhas)
+//     {
+//         Console.WriteLine(linha);
+//     }
 
 
-} catch (Exception ex) // catch significa pegar , obter - o codigo vai pegar a excessão 
-{
-    Console.WriteLine($"Ocorreu uma excessão genérica. {ex.Message}");
-}
+
+// } 
+
+// catch(FileNotFoundException ex)
+// {
+//     Console.WriteLine($"Ocorreu um erro na leitura do arquivo. Arquivo não encontrado {ex.Message}");
+// }
+// catch(DirectoryNotFoundException ex)
+// {
+//     Console.WriteLine($"Ocorreu um erro na leitura do arquivo. Caminho da pasta não encontrado" + ex.Message);
+// }
+
+
+// catch (Exception ex) // catch significa pegar , obter - o codigo vai pegar a excessão 
+// {
+//     Console.WriteLine($"Ocorreu uma excessão genérica. {ex.Message}");
+// }
+// finally // serve para executar um bloco de código, sempre no final da execuçao, indepedente se ocorrer uma excessão ou não.
+// // pode usar por exemplo para fechar uma conexão com o banco evitando que a conexão não fique com a conexão travada
+// // segura a conexão consome memoria etc
+// {
+//     Console.WriteLine("Chegou até arquivo");
+// }
 
 
 
