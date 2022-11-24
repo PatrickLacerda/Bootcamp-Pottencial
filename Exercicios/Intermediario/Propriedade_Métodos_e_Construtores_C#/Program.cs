@@ -3,8 +3,109 @@ using Propriedade_Métodos_e_Construtores_C_.Models;
 using System.Globalization; // importa a classe para poder mudar o padrão da moeda 
 
 
+//TRABALHANDO COM DICTIONARY 
+// UM DICTIONARY É UMA COLEÇÃO DE CHAVE-VALOR PARA ARMAZENAR VALORES UNICOS SEM UMA ORDEM ESPECIFICA, CASO NÃO SEJA UNICOS ELES VÃO APRESENTAR UMA EXCESSÃO
+// é necessário que a chave tenha valores unicos
 
-new ExemploExcecao().metodo1();
+Dictionary<string,string> estados = new Dictionary<string, string>(); // passar a minha chave que é string e o meu dificionario é string 
+
+estados.Add("SP", "São Paulo"); // adicionar itens no dictionary
+estados.Add("BA", "Bahia");
+estados.Add("MG", "Minas Gerais");
+
+
+Console.WriteLine("-------------");
+Console.WriteLine(estados["MG"]); //obter um valor do dicionario
+
+
+foreach(var item in estados)
+{
+    Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
+}
+
+
+
+Console.WriteLine("-------------");
+
+estados.Remove("BA"); //  remover um item do dicionario
+estados["SP"] = "São Paulo - valor alterado"; // alterar valores do dicionario
+foreach(var item in estados)
+{
+    Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
+}
+
+
+string chave = "BA";
+Console.WriteLine("Verificando o elemento:");
+//ContainsKey - é um metodo para verificar se a chave existe
+
+if (estados.ContainsKey(chave))
+{
+    Console.WriteLine($"Valor existente: {chave}");
+}
+else
+{
+    Console.WriteLine($"Valor não existe. É seguro adicionar a chave: {chave}");
+}
+
+
+
+
+//TRABALHANDO COM PILHAS - ELE OBEDECE A ORDEM LIFO (LAST INT FIRST OUT) ( O ULTIMO QUE ENTROU VAI SER O PRIMEIRO QUE VAI SAIR AO CONTRARIO DE UMA FILA)
+
+// Stack<int> pilha = new Stack<int>();
+
+// pilha.Push(4); // adiciona o elemento na pilha
+// pilha.Push(6);
+// pilha.Push(8);
+// pilha.Push(10);
+
+// foreach (var item in pilha)
+// {
+//     Console.WriteLine(item);
+// }
+
+// Console.WriteLine($"Removento o elemento do topo: {pilha.Pop()}");
+
+// pilha.Push(20);
+
+// foreach (var item in pilha)
+// {
+//     Console.WriteLine(item);
+// }
+
+//pilha.Pop(); // remove e retorna o objeto no topo da pilha 
+
+//TRABALHANDO COM FILAS
+
+// Queue<int> fila = new Queue<int>();
+
+// fila.Enqueue(2); // adiciona um elemento no final da fila
+// fila.Enqueue(4);
+// fila.Enqueue(6);
+// fila.Enqueue(4);
+
+//fila.Dequeue();// remove o primeiro elemento da fila, não precisa estipular o valor
+
+
+// foreach (int item in fila)
+// {
+//     Console.WriteLine(item);
+// }
+
+
+// Console.WriteLine($"Removendo o elemento: {fila.Dequeue()}");
+// fila.Enqueue(10);
+
+// foreach (int item in fila)
+// {
+//     Console.WriteLine(item);
+// }
+
+
+
+
+//new ExemploExcecao().metodo1();
 
 
 // EXCEÇÕES E COLEÇÕES
