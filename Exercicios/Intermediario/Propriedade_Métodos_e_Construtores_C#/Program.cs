@@ -3,50 +3,71 @@ using Propriedade_Métodos_e_Construtores_C_.Models;
 using System.Globalization; // importa a classe para poder mudar o padrão da moeda 
 
 
+
+//TUPLAS FORNECE SINTAXE CONCISA PARA AGRUPAR VÁRIOS ELEMENTOS DE DADOS EM UMA ESTRUTURA DE DADOS LEVE, 
+//ELA NÃO É UMA COLEÇÃO MAS PODE TER DENTRO DE SI UMA COLEÇÃO
+
+//DECLARAR UMA TUPLAS
+
+// MANEIRA MAIS RECOMENDADA DE USAR TUPLA POR CAUSA DA LEGIBILIDADE
+(int Id,string Nome,string Sobrenome,decimal Altura) tupla = (1, "Patrick", "Lacerda", 10.5M); // uma unica variavel declarou 4 valores de diferente tipos.
+
+ValueTuple<int,string,string,decimal> outroExemploTupla = (1, "Patrick", "Lacerda", 10.5M); // outra forma de representar uma tupla
+var outroExemploTuplaCreate = Tuple.Create(1, "Patrick", "Lacerda", 10.5M);// outra maneira de representar - ele identifica automaticamente que e string ou inteiro
+
+
+
+
+
+Console.WriteLine($"ID:{tupla.Id}");
+Console.WriteLine($"Nome:{tupla.Nome}");
+Console.WriteLine($"Sobrenome:{tupla.Sobrenome}");
+Console.WriteLine($"Altura:{tupla.Altura}");
+
 //TRABALHANDO COM DICTIONARY 
 // UM DICTIONARY É UMA COLEÇÃO DE CHAVE-VALOR PARA ARMAZENAR VALORES UNICOS SEM UMA ORDEM ESPECIFICA, CASO NÃO SEJA UNICOS ELES VÃO APRESENTAR UMA EXCESSÃO
 // é necessário que a chave tenha valores unicos
 
-Dictionary<string,string> estados = new Dictionary<string, string>(); // passar a minha chave que é string e o meu dificionario é string 
+// Dictionary<string,string> estados = new Dictionary<string, string>(); // passar a minha chave que é string e o meu dificionario é string 
 
-estados.Add("SP", "São Paulo"); // adicionar itens no dictionary
-estados.Add("BA", "Bahia");
-estados.Add("MG", "Minas Gerais");
-
-
-Console.WriteLine("-------------");
-Console.WriteLine(estados["MG"]); //obter um valor do dicionario
+// estados.Add("SP", "São Paulo"); // adicionar itens no dictionary
+// estados.Add("BA", "Bahia");
+// estados.Add("MG", "Minas Gerais");
 
 
-foreach(var item in estados)
-{
-    Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
-}
+// Console.WriteLine("-------------");
+// Console.WriteLine(estados["MG"]); //obter um valor do dicionario
+
+
+// foreach(var item in estados)
+// {
+//     Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
+// }
 
 
 
-Console.WriteLine("-------------");
+// Console.WriteLine("-------------");
 
-estados.Remove("BA"); //  remover um item do dicionario
-estados["SP"] = "São Paulo - valor alterado"; // alterar valores do dicionario
-foreach(var item in estados)
-{
-    Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
-}
+// estados.Remove("BA"); //  remover um item do dicionario
+// estados["SP"] = "São Paulo - valor alterado"; // alterar valores do dicionario
+// foreach(var item in estados)
+// {
+//     Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
+// }
 
 
-string chave = "BA";
-Console.WriteLine("Verificando o elemento:");
-//ContainsKey - é um metodo para verificar se a chave existe
+// string chave = "BA";
+// Console.WriteLine("Verificando o elemento:");
+// //ContainsKey - é um metodo para verificar se a chave existe
 
-if (estados.ContainsKey(chave))
-{
-    Console.WriteLine($"Valor existente: {chave}");
-}
-else
-{
-    Console.WriteLine($"Valor não existe. É seguro adicionar a chave: {chave}");
-}
+// if (estados.ContainsKey(chave))
+// {
+//     Console.WriteLine($"Valor existente: {chave}");
+// }
+// else
+// {
+//     Console.WriteLine($"Valor não existe. É seguro adicionar a chave: {chave}");
+// }
 
 
 
