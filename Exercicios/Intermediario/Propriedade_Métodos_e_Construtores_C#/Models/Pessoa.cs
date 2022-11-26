@@ -19,6 +19,13 @@ namespace Propriedade_Métodos_e_Construtores_C_.Models
             Nome = nome;
             Sobrenome = sobrenome;
         }
+
+        public void Desconstruct(out string nome, out string sobrenome) // descontructor - utiliza a função out variavel de saida
+        {   // desconstructor faz o processo inverso, colocando as variavel de saida primeira
+            nome = Nome;
+            sobrenome = Sobrenome ;
+
+        }
         private string _nome; // private só é permitido acessar dentro da propria classe - Campo um valor que vai armazenar o nome
         public string  Nome // public  qualquer um pode acessar a propridade 
         { 

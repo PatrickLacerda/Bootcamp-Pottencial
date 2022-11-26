@@ -2,6 +2,63 @@
 using Propriedade_Métodos_e_Construtores_C_.Models;
 using System.Globalization; // importa a classe para poder mudar o padrão da moeda 
 
+// IF TERNÁRIO
+
+// MANEIRA CONVENCIONAL 
+
+int numero  = 20;
+
+if(numero % 2 == 0)
+{
+    Console.WriteLine($"O número {numero} é par");
+}
+
+else
+{
+    Console.WriteLine($"O número {numero} é Impar");
+}
+
+
+
+
+// DESCONSTRUTOR 
+// TEM O OBJETIVO DE SEPARAR O OBJETO, SEPARAR AS INFORMAÇÕES EM UMA VARIAVEL DISTINTA
+
+// Pessoa p1 = new Pessoa("Patrick","Lacerda");
+// // revisar desconstructor - erro 
+// (string nome, string sobrenome) = p1; // SEMELHANTE A SINTAXY DE UMA TUPLAb-
+
+// Console.WriteLine($"{nome} {sobrenome}");
+
+
+// LeituraArquivo arquivo = new LeituraArquivo();
+// var (sucesso, linhasArquivo, quantidadeLinhas) = arquivo.LerArquivo("Arquivos/arquivoLeitura.txt"); // var indentificar o tipo de variavel 
+// // retornar uma informação que não vai usar - DESCARTES
+// //UTILIZAR O UNDERLINE _ SIGNIFICA , ESSA INFORMAÇÃO VOCÊ DESCARTA, TRAZER MAS NÃO USAR
+// // EXEMPLO var (sucesso, linhasArquivo, _) = arquivo.LerArquivo("Arquivos/arquivoLeitura.txt");
+// // chamar tupla do metodo
+// // 
+
+// if (sucesso)
+// {   
+//     Console.WriteLine("Quantidade linhas do arquivo:" + quantidadeLinhas);
+//     foreach (string linha  in linhasArquivo)
+//     {
+//         Console.WriteLine(linha);
+        
+//     }
+// }
+// else
+// {
+//     Console.WriteLine("Não foi possivel ler o arquivo");
+// }
+
+
+
+
+
+
+
 
 
 //TUPLAS FORNECE SINTAXE CONCISA PARA AGRUPAR VÁRIOS ELEMENTOS DE DADOS EM UMA ESTRUTURA DE DADOS LEVE, 
@@ -9,20 +66,20 @@ using System.Globalization; // importa a classe para poder mudar o padrão da mo
 
 //DECLARAR UMA TUPLAS
 
-// MANEIRA MAIS RECOMENDADA DE USAR TUPLA POR CAUSA DA LEGIBILIDADE
-(int Id,string Nome,string Sobrenome,decimal Altura) tupla = (1, "Patrick", "Lacerda", 10.5M); // uma unica variavel declarou 4 valores de diferente tipos.
+// MANEIRA MAIS RECOMENDADA DE USAR TUPLA POR CAUSA DA LEGIBILIDADE e declaração de nomes
+// (int Id,string Nome,string Sobrenome,decimal Altura) tupla = (1, "Patrick", "Lacerda", 10.5M); // uma unica variavel declarou 4 valores de diferente tipos.
 
-ValueTuple<int,string,string,decimal> outroExemploTupla = (1, "Patrick", "Lacerda", 10.5M); // outra forma de representar uma tupla
-var outroExemploTuplaCreate = Tuple.Create(1, "Patrick", "Lacerda", 10.5M);// outra maneira de representar - ele identifica automaticamente que e string ou inteiro
-
-
+// ValueTuple<int,string,string,decimal> outroExemploTupla = (1, "Patrick", "Lacerda", 10.5M); // outra forma de representar uma tupla
+// var outroExemploTuplaCreate = Tuple.Create(1, "Patrick", "Lacerda", 10.5M);// outra maneira de representar - ele identifica automaticamente que e string ou inteiro
 
 
 
-Console.WriteLine($"ID:{tupla.Id}");
-Console.WriteLine($"Nome:{tupla.Nome}");
-Console.WriteLine($"Sobrenome:{tupla.Sobrenome}");
-Console.WriteLine($"Altura:{tupla.Altura}");
+
+
+// Console.WriteLine($"ID:{tupla.Id}");
+// Console.WriteLine($"Nome:{tupla.Nome}");
+// Console.WriteLine($"Sobrenome:{tupla.Sobrenome}");
+// Console.WriteLine($"Altura:{tupla.Altura}");
 
 //TRABALHANDO COM DICTIONARY 
 // UM DICTIONARY É UMA COLEÇÃO DE CHAVE-VALOR PARA ARMAZENAR VALORES UNICOS SEM UMA ORDEM ESPECIFICA, CASO NÃO SEJA UNICOS ELES VÃO APRESENTAR UMA EXCESSÃO
