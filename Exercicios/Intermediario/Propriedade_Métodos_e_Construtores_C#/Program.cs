@@ -2,21 +2,41 @@
 using Propriedade_Métodos_e_Construtores_C_.Models;
 using System.Globalization; // importa a classe para poder mudar o padrão da moeda 
 
-// IF TERNÁRIO
+
+
+// NUGET É UM GERENCIADOR DE PACOTE, PACOTE É UM CONJUNTO DE  CODIGOS UTEIS QUE POSSIBILITA O COMPARTILHAMENTO E REUSO DO CODIGO
+// PACOTE É UM PEQUENO PROJETO NO C# QUE RESOLVE UM PROBLEMA ESPECIFICO
+// OBS - NUGET É APENAS NO DOTNET 
+// PODE SER ACESSADO NO SITE https://www.nuget.org/
+
 
 // MANEIRA CONVENCIONAL 
 
-int numero  = 20;
+// int numero  = 10;
 
-if(numero % 2 == 0)
-{
-    Console.WriteLine($"O número {numero} é par");
-}
+// bool ehPar = false;
 
-else
-{
-    Console.WriteLine($"O número {numero} é Impar");
-}
+// // IF TERNÁRIO - OTIMO PARA DIMINUIR QUANTIDADE DE LINHAS 
+// // UTILIZA UMA VARIAVEL BOLEANA 
+
+// ehPar = numero % 2 == 0;
+
+// NA HORA DE VALIDAR A CONDICIONAL UTILIZA ? PARA TOMAR UMA AÇÃO CASO SEJA VERDEIRO OU FALSO
+
+// SINTAXY CONDIÇÃO ehPar DEPOIS ?  resultado caso verdadeiro  verdadeira resultado caso falso
+
+// Console.WriteLine($"O número {numero} é "+ (ehPar ? "par" : "impar")); 
+
+
+// if(numero % 2 == 0)
+// {
+//     Console.WriteLine($"O número {numero} é par");
+// }
+
+// else
+// {
+//     Console.WriteLine($"O número {numero} é Impar");
+// }
 
 
 
