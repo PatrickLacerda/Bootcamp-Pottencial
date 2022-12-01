@@ -1,7 +1,13 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using Propriedade_Métodos_e_Construtores_C_.Models;
 using System.Globalization; // importa a classe para poder mudar o padrão da moeda 
+using Newtonsoft.Json;
 
+
+
+//SERIALIZAÇÃO - É UM PROCESSO QUE CONSISTE EM TRANSFORMAR OBJETOS EM FLUXO DE BYTES PARA SEU ARMAZENAMENTO OU TRANSMISSÃO 
+
+Venda = v1 = new Venda(1, "Material de escritório", 25.00M);
 
 
 // NUGET É UM GERENCIADOR DE PACOTE, PACOTE É UM CONJUNTO DE  CODIGOS UTEIS QUE POSSIBILITA O COMPARTILHAMENTO E REUSO DO CODIGO
