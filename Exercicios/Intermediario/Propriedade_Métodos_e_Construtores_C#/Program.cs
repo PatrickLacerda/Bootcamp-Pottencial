@@ -3,11 +3,30 @@ using Propriedade_Métodos_e_Construtores_C_.Models;
 using System.Globalization; // importa a classe para poder mudar o padrão da moeda 
 using Newtonsoft.Json;
 
+//DESCERIALIZAR
+
+string conteudoArquivo = File.ReadAllText("Arquivos/vendas.json");
+List<Venda> listaVenda = JsonConvert.DeserializeObject<List<Venda>>(conteudoArquivo);// convertido arquivo jason para uma lista
+foreach (Venda venda in listaVenda)
+{
+    Console.WriteLine($"ID: {venda.ID}, Produto: {venda.Produto}" + 
+                      $"Preço: {venda.Preco}, Data:  {venda.DataVenda.ToString("dd/MM/yyyy HH:mm")}");
+}
 
 
 //SERIALIZAÇÃO - É UM PROCESSO QUE CONSISTE EM TRANSFORMAR OBJETOS EM FLUXO DE BYTES PARA SEU ARMAZENAMENTO OU TRANSMISSÃO 
+// ISO 8601 - QUE E UMA ISO QUE PADRONIZA A REPRESENTAÇÃO DE DATA ENTRE SISTEMAS
+// DateTime dataAtual = DateTime.Now;
+// List<Venda> listaVendas = new List<Venda>();
 
-Venda  v1 = new Venda(1, "Material de escritório", 25.00M);
+// Venda  v1 = new Venda(1, "Material de escritório", 25.00M,dataAtual);
+// Venda  v2 = new Venda(2, "Licensa de Software", 110.00M,dataAtual);
+// listaVendas.Add(v1);
+// listaVendas.Add(v2);
+// string serializado =  JsonConvert.SerializeObject(listaVendas, Formatting.Indented); // Formatting.indented formata o objeto pulando linha
+// //string serializado =  JsonConvert.SerializeObject(listaVendas); sem pular linha, diminuindo quantidade de linhas
+// Console.WriteLine(serializado);
+// File.WriteAllText("Arquivos/vendas.json",serializado); // salva um arquivo
 
 
 // NUGET É UM GERENCIADOR DE PACOTE, PACOTE É UM CONJUNTO DE  CODIGOS UTEIS QUE POSSIBILITA O COMPARTILHAMENTO E REUSO DO CODIGO
@@ -359,7 +378,7 @@ Venda  v1 = new Venda(1, "Material de escritório", 25.00M);
 
 
 
-// p1.Nome = "Patrick"; // quando tiver uma chave inglesa, representa uma proriedade 
+// p1.Nome = "Patrick"; // quando tiver uma icone da chave inglesa, representa uma proriedade 
 // p1.Sobrenome = "Lacerda";
 
 
