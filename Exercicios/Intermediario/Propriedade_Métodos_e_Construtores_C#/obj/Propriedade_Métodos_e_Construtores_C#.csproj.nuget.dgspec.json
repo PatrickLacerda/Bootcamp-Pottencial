@@ -1,24 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\workspace\\Bootcamp-Pottencial\\Exercicios\\Intermediario\\Propriedade_Métodos_e_Construtores_C#\\Propriedade_Métodos_e_Construtores_C#.csproj": {}
+    "C:\\workstation\\Bootcamp-Pottencial\\Exercicios\\Intermediario\\Propriedade_Métodos_e_Construtores_C#\\Propriedade_Métodos_e_Construtores_C#.csproj": {}
   },
   "projects": {
-    "C:\\workspace\\Bootcamp-Pottencial\\Exercicios\\Intermediario\\Propriedade_Métodos_e_Construtores_C#\\Propriedade_Métodos_e_Construtores_C#.csproj": {
+    "C:\\workstation\\Bootcamp-Pottencial\\Exercicios\\Intermediario\\Propriedade_Métodos_e_Construtores_C#\\Propriedade_Métodos_e_Construtores_C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\workspace\\Bootcamp-Pottencial\\Exercicios\\Intermediario\\Propriedade_Métodos_e_Construtores_C#\\Propriedade_Métodos_e_Construtores_C#.csproj",
+        "projectUniqueName": "C:\\workstation\\Bootcamp-Pottencial\\Exercicios\\Intermediario\\Propriedade_Métodos_e_Construtores_C#\\Propriedade_Métodos_e_Construtores_C#.csproj",
         "projectName": "Propriedade_Métodos_e_Construtores_C#",
-        "projectPath": "C:\\workspace\\Bootcamp-Pottencial\\Exercicios\\Intermediario\\Propriedade_Métodos_e_Construtores_C#\\Propriedade_Métodos_e_Construtores_C#.csproj",
-        "packagesPath": "C:\\Users\\patrick.lacerda\\.nuget\\packages\\",
-        "outputPath": "C:\\workspace\\Bootcamp-Pottencial\\Exercicios\\Intermediario\\Propriedade_Métodos_e_Construtores_C#\\obj\\",
+        "projectPath": "C:\\workstation\\Bootcamp-Pottencial\\Exercicios\\Intermediario\\Propriedade_Métodos_e_Construtores_C#\\Propriedade_Métodos_e_Construtores_C#.csproj",
+        "packagesPath": "C:\\Users\\patricklacerda\\.nuget\\packages\\",
+        "outputPath": "C:\\workstation\\Bootcamp-Pottencial\\Exercicios\\Intermediario\\Propriedade_Métodos_e_Construtores_C#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\patrick.lacerda\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\patricklacerda\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
@@ -56,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -15,7 +15,7 @@ namespace Propriedade_Métodos_e_Construtores_C_.Models
         }
         
         public int ID {get; set;}
-        public int Produto {get; set;}
+        public string Produto {get; set;}
         public decimal Preco {get;set;}
 
     }
