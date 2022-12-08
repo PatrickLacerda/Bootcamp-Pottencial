@@ -1,10 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "T5vn0pJfCnIUGZb8UKCxikqu3Y4y/yg3m367Qtb4dP+erlxA+MfvPcPHEq7c9YeHZ+RXLeP4t+SXGhJgxWSuBQ==",
-  "success": true,
-  "projectFilePath": "C:\\workstation\\Bootcamp-Pottencial\\Exercicios\\Intermediario\\Propriedade_Métodos_e_Construtores_C#\\Propriedade_Métodos_e_Construtores_C#.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\patricklacerda\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
-  ],
-  "logs": []
+  "dgSpecHash": "Ma10RdINkaTA9aqCrDFMXnMfp8qC/peXgXE//z3sn2VvmX+pNu5XLI6TJzv4G8A6CiimRQ43oM0d8QXvQnDNLA==",
+  "success": false,
+  "projectFilePath": "C:\\workspace\\Bootcamp-Pottencial\\Exercicios\\Intermediario\\Propriedade_Métodos_e_Construtores_C#\\Propriedade_Métodos_e_Construtores_C#.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Não foi possível resolver 'Newtonsoft.Json (>= 13.0.2)' para 'net6.0'.",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }

@@ -1,17 +1,17 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using Propriedade_Métodos_e_Construtores_C_.Models;
 using System.Globalization; // importa a classe para poder mudar o padrão da moeda 
-using Newtonsoft.Json;
+//using Newtonsoft.Json;
 
 //DESCERIALIZAR
 
-string conteudoArquivo = File.ReadAllText("Arquivos/vendas.json");
-List<Venda> listaVenda = JsonConvert.DeserializeObject<List<Venda>>(conteudoArquivo);// convertido arquivo jason para uma lista
-foreach (Venda venda in listaVenda)
-{
-    Console.WriteLine($"ID: {venda.ID}, Produto: {venda.Produto}" + 
-                      $"Preço: {venda.Preco}, Data:  {venda.DataVenda.ToString("dd/MM/yyyy HH:mm")}");
-}
+// string conteudoArquivo = File.ReadAllText("Arquivos/vendas.json");
+// List<Venda> listaVenda = JsonConvert.DeserializeObject<List<Venda>>(conteudoArquivo);// convertido arquivo jason para uma lista
+// foreach (Venda venda in listaVenda)
+// {
+//     Console.WriteLine($"ID: {venda.ID}, Produto: {venda.Produto}" + 
+//                       $"Preço: {venda.Preco}, Data:  {venda.DataVenda.ToString("dd/MM/yyyy HH:mm")}");
+// }
 
 
 //SERIALIZAÇÃO - É UM PROCESSO QUE CONSISTE EM TRANSFORMAR OBJETOS EM FLUXO DE BYTES PARA SEU ARMAZENAMENTO OU TRANSMISSÃO 
