@@ -2,12 +2,34 @@
 using Tipos_especiais_no_C.Models;
 using System.Globalization;
 
-// ele identifica automaticamente o tipo da propriedade, se tem " duplo, ele identifica que é um valor string
-var tipoAnonimo = new {Nome = "Patrick", Sobrenome = "Lacerda", Altura = 1.80 };
+// // EXEMPLO DA AULA DE STACK, GEAP, GARBAGE COLLECTOR 
 
-Console.WriteLine("Nome: " + tipoAnonimo.Nome);
-Console.WriteLine("Sobrenome: " + tipoAnonimo.Sobrenome);
-Console.WriteLine("Altura: " + tipoAnonimo.Altura);
+// Pessoa p1 = new Pessoa(nome: "Patrick", sobrenome: "Lacerda");
+// //Pessoa p2 = new Pessoa (nome: "Leonardo", sobrenome: "Butta");
+
+// Pessoa p2 = p1; // quando coloca p2 = p1 não está fazendo uma copia de P1, mas sim apontando para o mesmo lugar (objeto)
+// //quando altera p2.nome os dois vao ser afetados ter o mesmo valor p1, p2 por fazerem o apontamento para mesma referencia.
+// p2.Nome = "Vinicius";
+
+// Console.WriteLine($"Nome da pessoa p1: {p1.NomeCompleto}");
+// Console.WriteLine($"Nome da pessoa p2: {p2.NomeCompleto}");
+
+
+int a = 10;
+int b = 1;
+
+Console.WriteLine($"Valor de A: {a}");
+Console.WriteLine($"Valor de B: {b}");
+
+
+
+
+// // ele identifica automaticamente o tipo da propriedade, se tem " duplo, ele identifica que é um valor string
+// var tipoAnonimo = new {Nome = "Patrick", Sobrenome = "Lacerda", Altura = 1.80 };
+
+// Console.WriteLine("Nome: " + tipoAnonimo.Nome);
+// Console.WriteLine("Sobrenome: " + tipoAnonimo.Sobrenome);
+// Console.WriteLine("Altura: " + tipoAnonimo.Altura);
 
 
 
