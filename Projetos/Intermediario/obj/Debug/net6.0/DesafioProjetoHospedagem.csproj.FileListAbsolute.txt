@@ -1,0 +1,15 @@
+C:\workspace\Bootcamp-Pottencial\Projetos\Intermediario\bin\Debug\net6.0\DesafioProjetoHospedagem.exe
+C:\workspace\Bootcamp-Pottencial\Projetos\Intermediario\bin\Debug\net6.0\DesafioProjetoHospedagem.deps.json
+C:\workspace\Bootcamp-Pottencial\Projetos\Intermediario\bin\Debug\net6.0\DesafioProjetoHospedagem.runtimeconfig.json
+C:\workspace\Bootcamp-Pottencial\Projetos\Intermediario\bin\Debug\net6.0\DesafioProjetoHospedagem.dll
+C:\workspace\Bootcamp-Pottencial\Projetos\Intermediario\bin\Debug\net6.0\DesafioProjetoHospedagem.pdb
+C:\workspace\Bootcamp-Pottencial\Projetos\Intermediario\obj\Debug\net6.0\DesafioProjetoHospedagem.csproj.AssemblyReference.cache
+C:\workspace\Bootcamp-Pottencial\Projetos\Intermediario\obj\Debug\net6.0\DesafioProjetoHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Bootcamp-Pottencial\Projetos\Intermediario\obj\Debug\net6.0\DesafioProjetoHospedagem.AssemblyInfoInputs.cache
+C:\workspace\Bootcamp-Pottencial\Projetos\Intermediario\obj\Debug\net6.0\DesafioProjetoHospedagem.AssemblyInfo.cs
+C:\workspace\Bootcamp-Pottencial\Projetos\Intermediario\obj\Debug\net6.0\DesafioProjetoHospedagem.csproj.CoreCompileInputs.cache
+C:\workspace\Bootcamp-Pottencial\Projetos\Intermediario\obj\Debug\net6.0\DesafioProjetoHospedagem.dll
+C:\workspace\Bootcamp-Pottencial\Projetos\Intermediario\obj\Debug\net6.0\refint\DesafioProjetoHospedagem.dll
+C:\workspace\Bootcamp-Pottencial\Projetos\Intermediario\obj\Debug\net6.0\DesafioProjetoHospedagem.pdb
+C:\workspace\Bootcamp-Pottencial\Projetos\Intermediario\obj\Debug\net6.0\DesafioProjetoHospedagem.genruntimeconfig.cache
+C:\workspace\Bootcamp-Pottencial\Projetos\Intermediario\obj\Debug\net6.0\ref\DesafioProjetoHospedagem.dll
