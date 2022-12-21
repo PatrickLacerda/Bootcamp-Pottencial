@@ -1,0 +1,15 @@
+C:\workspace\Bootcamp-Pottencial\Exercicios\Programação orientada a objeto\bin\Debug\net6.0\Programação orientada a objeto.exe
+C:\workspace\Bootcamp-Pottencial\Exercicios\Programação orientada a objeto\bin\Debug\net6.0\Programação orientada a objeto.deps.json
+C:\workspace\Bootcamp-Pottencial\Exercicios\Programação orientada a objeto\bin\Debug\net6.0\Programação orientada a objeto.runtimeconfig.json
+C:\workspace\Bootcamp-Pottencial\Exercicios\Programação orientada a objeto\bin\Debug\net6.0\Programação orientada a objeto.dll
+C:\workspace\Bootcamp-Pottencial\Exercicios\Programação orientada a objeto\bin\Debug\net6.0\Programação orientada a objeto.pdb
+C:\workspace\Bootcamp-Pottencial\Exercicios\Programação orientada a objeto\obj\Debug\net6.0\Programação orientada a objeto.csproj.AssemblyReference.cache
+C:\workspace\Bootcamp-Pottencial\Exercicios\Programação orientada a objeto\obj\Debug\net6.0\Programação orientada a objeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Bootcamp-Pottencial\Exercicios\Programação orientada a objeto\obj\Debug\net6.0\Programação orientada a objeto.AssemblyInfoInputs.cache
+C:\workspace\Bootcamp-Pottencial\Exercicios\Programação orientada a objeto\obj\Debug\net6.0\Programação orientada a objeto.AssemblyInfo.cs
+C:\workspace\Bootcamp-Pottencial\Exercicios\Programação orientada a objeto\obj\Debug\net6.0\Programação orientada a objeto.csproj.CoreCompileInputs.cache
+C:\workspace\Bootcamp-Pottencial\Exercicios\Programação orientada a objeto\obj\Debug\net6.0\Programação orientada a objeto.dll
+C:\workspace\Bootcamp-Pottencial\Exercicios\Programação orientada a objeto\obj\Debug\net6.0\refint\Programação orientada a objeto.dll
+C:\workspace\Bootcamp-Pottencial\Exercicios\Programação orientada a objeto\obj\Debug\net6.0\Programação orientada a objeto.pdb
+C:\workspace\Bootcamp-Pottencial\Exercicios\Programação orientada a objeto\obj\Debug\net6.0\Programação orientada a objeto.genruntimeconfig.cache
+C:\workspace\Bootcamp-Pottencial\Exercicios\Programação orientada a objeto\obj\Debug\net6.0\ref\Programação orientada a objeto.dll
