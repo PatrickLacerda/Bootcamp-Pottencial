@@ -1,13 +1,29 @@
 ﻿using Programação_orientada_a_objeto.models;
+using Programação_orientada_a_objeto.Interfaces;
+
+
+
+ICalculadora calc = new Calculadora();
+Console.WriteLine(calc.Multiplicar(3,9));
+
+//ICalculadora calc = new ICalculadora(); comando para demostrar que não é possivel instanciar uma interface 
+//**** EXEMPLO DA CLASSE OBJECT ****/
+
+
+// Computador c = new Computador ();
+// Console.WriteLine(c.ToString());
+
+
+
 
 
 //**** CONSTRUTOR POR HERANÇA****//
 
-Pessoa p1 = new Pessoa("Patrick");
-Aluno a1 = new Aluno("Lacerda");
-Aluno a2 = new Aluno();
+// Pessoa p1 = new Pessoa("Patrick");
+// Aluno a1 = new Aluno("Lacerda");
+// Aluno a2 = new Aluno();
 
-a1.Apresentar();
+// a1.Apresentar();
 
 
 
