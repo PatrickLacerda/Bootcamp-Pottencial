@@ -1,0 +1,15 @@
+C:\workspace\Bootcamp-Pottencial\Projetos\Abstraindo um Celular com POO\obj\Debug\net6.0\DesafioPOO.csproj.AssemblyReference.cache
+C:\workspace\Bootcamp-Pottencial\Projetos\Abstraindo um Celular com POO\obj\Debug\net6.0\DesafioPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Bootcamp-Pottencial\Projetos\Abstraindo um Celular com POO\obj\Debug\net6.0\DesafioPOO.AssemblyInfoInputs.cache
+C:\workspace\Bootcamp-Pottencial\Projetos\Abstraindo um Celular com POO\obj\Debug\net6.0\DesafioPOO.AssemblyInfo.cs
+C:\workspace\Bootcamp-Pottencial\Projetos\Abstraindo um Celular com POO\obj\Debug\net6.0\DesafioPOO.csproj.CoreCompileInputs.cache
+C:\workspace\Bootcamp-Pottencial\Projetos\Abstraindo um Celular com POO\bin\Debug\net6.0\DesafioPOO.exe
+C:\workspace\Bootcamp-Pottencial\Projetos\Abstraindo um Celular com POO\bin\Debug\net6.0\DesafioPOO.deps.json
+C:\workspace\Bootcamp-Pottencial\Projetos\Abstraindo um Celular com POO\bin\Debug\net6.0\DesafioPOO.runtimeconfig.json
+C:\workspace\Bootcamp-Pottencial\Projetos\Abstraindo um Celular com POO\bin\Debug\net6.0\DesafioPOO.dll
+C:\workspace\Bootcamp-Pottencial\Projetos\Abstraindo um Celular com POO\bin\Debug\net6.0\DesafioPOO.pdb
+C:\workspace\Bootcamp-Pottencial\Projetos\Abstraindo um Celular com POO\obj\Debug\net6.0\DesafioPOO.dll
+C:\workspace\Bootcamp-Pottencial\Projetos\Abstraindo um Celular com POO\obj\Debug\net6.0\refint\DesafioPOO.dll
+C:\workspace\Bootcamp-Pottencial\Projetos\Abstraindo um Celular com POO\obj\Debug\net6.0\DesafioPOO.pdb
+C:\workspace\Bootcamp-Pottencial\Projetos\Abstraindo um Celular com POO\obj\Debug\net6.0\DesafioPOO.genruntimeconfig.cache
+C:\workspace\Bootcamp-Pottencial\Projetos\Abstraindo um Celular com POO\obj\Debug\net6.0\ref\DesafioPOO.dll
