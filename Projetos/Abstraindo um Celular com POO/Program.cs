@@ -3,7 +3,7 @@
 // TODO: Realizar os testes com as classes Nokia e Iphone
 Console.WriteLine("Smartphone Nokia");
 //Smartphone nokia  = new Nokia();
-Nokia nokia  = new Nokia(numero: "123456", modelo: "Modelo1", iMEI: "11111111111",memoria: 64);
+Smartphone nokia  = new Nokia(numero: "123456", modelo: "Modelo1", iMEI: "11111111111",memoria: 64);
 
 nokia.Ligar();
 nokia.InstalarAplicativo("WhatApp");
