@@ -1,0 +1,21 @@
+Pessoal, quem estiver tendo dificuldades em concluir o projeto final do bootcamp aqui tem algumas aulas de web api com persistencia em memória muito boas e complementares. Pode ser que esclareça alguma possível dúvida que tenha ficado.
+
+
+
+Bom proveito e bons estudos!
+
+
+
+Aula de configuração: https://www.youtube.com/watch?v=ob1qmwDTU00&t=2082s
+
+
+
+Aula 1: https://www.youtube.com/watch?v=Xcg5oUbhBZI
+
+
+
+Aula 2: https://www.youtube.com/watch?v=S5-6f9i7WR0
+
+
+
+Aula 3: https://www.youtube.com/watch?v=QtJmT20PbHQ
