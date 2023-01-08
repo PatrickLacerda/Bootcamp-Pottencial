@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "fO1P0puHRvOiv1DJb2D7ayyrY8f0ggVi/u2f3hqTFVEHn/dOjz95v2uKJJsO3gyWr/wc0PMvlSpfjLRaC0kAHg==",
+  "dgSpecHash": "ZrgdK+wnppYdBdBK1+LwsR6j2PIn0ghn+9Kz8aTSzO4Yh3r3O9hsWRkT4PdhfdfOJyZJmqow9jIPy5b8nITuTw==",
   "success": true,
-  "projectFilePath": "C:\\workspace\\Bootcamp-Pottencial\\Exercicios\\Intermediario\\Tipos especiais no C\\Tipos especiais no C.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\workstation\\Bootcamp-Pottencial\\Exercicios\\Intermediario\\Tipos especiais no C\\Tipos especiais no C.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\patricklacerda\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

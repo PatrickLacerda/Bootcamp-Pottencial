@@ -37,7 +37,7 @@ internal class Program
 
         app.MapControllerRoute(
             name: "default",
-            pattern: "{controller=Home}/{action=Index}/{id?}");
+            pattern: "{controller=Contato}/{action=Index}/{id?}"); // pagina padrão a carregar
 
         app.Run();
     }

@@ -13,3 +13,20 @@ C:\workspace\Bootcamp-Pottencial\Exercicios\Intermediario\Tipos especiais no C\o
 C:\workspace\Bootcamp-Pottencial\Exercicios\Intermediario\Tipos especiais no C\obj\Debug\net6.0\Tipos especiais no C.pdb
 C:\workspace\Bootcamp-Pottencial\Exercicios\Intermediario\Tipos especiais no C\obj\Debug\net6.0\Tipos especiais no C.genruntimeconfig.cache
 C:\workspace\Bootcamp-Pottencial\Exercicios\Intermediario\Tipos especiais no C\obj\Debug\net6.0\ref\Tipos especiais no C.dll
+C:\workstation\Bootcamp-Pottencial\Exercicios\Intermediario\Tipos especiais no C\bin\Debug\net6.0\Tipos especiais no C.exe
+C:\workstation\Bootcamp-Pottencial\Exercicios\Intermediario\Tipos especiais no C\bin\Debug\net6.0\Tipos especiais no C.deps.json
+C:\workstation\Bootcamp-Pottencial\Exercicios\Intermediario\Tipos especiais no C\bin\Debug\net6.0\Tipos especiais no C.runtimeconfig.json
+C:\workstation\Bootcamp-Pottencial\Exercicios\Intermediario\Tipos especiais no C\bin\Debug\net6.0\Tipos especiais no C.dll
+C:\workstation\Bootcamp-Pottencial\Exercicios\Intermediario\Tipos especiais no C\bin\Debug\net6.0\Tipos especiais no C.pdb
+C:\workstation\Bootcamp-Pottencial\Exercicios\Intermediario\Tipos especiais no C\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\workstation\Bootcamp-Pottencial\Exercicios\Intermediario\Tipos especiais no C\obj\Debug\net6.0\Tipos especiais no C.csproj.AssemblyReference.cache
+C:\workstation\Bootcamp-Pottencial\Exercicios\Intermediario\Tipos especiais no C\obj\Debug\net6.0\Tipos especiais no C.GeneratedMSBuildEditorConfig.editorconfig
+C:\workstation\Bootcamp-Pottencial\Exercicios\Intermediario\Tipos especiais no C\obj\Debug\net6.0\Tipos especiais no C.AssemblyInfoInputs.cache
+C:\workstation\Bootcamp-Pottencial\Exercicios\Intermediario\Tipos especiais no C\obj\Debug\net6.0\Tipos especiais no C.AssemblyInfo.cs
+C:\workstation\Bootcamp-Pottencial\Exercicios\Intermediario\Tipos especiais no C\obj\Debug\net6.0\Tipos especiais no C.csproj.CoreCompileInputs.cache
+C:\workstation\Bootcamp-Pottencial\Exercicios\Intermediario\Tipos especiais no C\obj\Debug\net6.0\Tipos especiais no C.csproj.CopyComplete
+C:\workstation\Bootcamp-Pottencial\Exercicios\Intermediario\Tipos especiais no C\obj\Debug\net6.0\Tipos especiais no C.dll
+C:\workstation\Bootcamp-Pottencial\Exercicios\Intermediario\Tipos especiais no C\obj\Debug\net6.0\refint\Tipos especiais no C.dll
+C:\workstation\Bootcamp-Pottencial\Exercicios\Intermediario\Tipos especiais no C\obj\Debug\net6.0\Tipos especiais no C.pdb
+C:\workstation\Bootcamp-Pottencial\Exercicios\Intermediario\Tipos especiais no C\obj\Debug\net6.0\Tipos especiais no C.genruntimeconfig.cache
+C:\workstation\Bootcamp-Pottencial\Exercicios\Intermediario\Tipos especiais no C\obj\Debug\net6.0\ref\Tipos especiais no C.dll

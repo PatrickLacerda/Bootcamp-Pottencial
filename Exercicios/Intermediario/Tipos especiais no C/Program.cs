@@ -1,6 +1,69 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using Tipos_especiais_no_C.Models;
 using System.Globalization;
+using Newtonsoft.Json;
+
+
+///METODO DE EXTENSÃO 
+
+
+int numero = 20;
+bool par = false;
+
+// IF TEMÁRIO
+
+par = numero.EhPar();
+
+string mensagem = "O numero" + numero + "" + "é" + (par? "par" : "impar");
+Console.WriteLine(mensagem);
+
+
+/// FIM DE METODO DE EXTENSÃO 
+
+//Classe Generica
+
+// MeuArray<int> arrayInteiro = new MeuArray<int>();
+// arrayInteiro.AdicionarElementoArray(30);
+// Console.WriteLine(arrayInteiro[0]);
+
+
+// MeuArray<string> arraystring = new MeuArray<string>();
+// arraystring.AdicionarElementoArray("Teste");
+// Console.WriteLine(arraystring[0]);
+
+//****Fim Classe Generica ***///
+
+// VARIAVEL DINAMICA - altera tipo de variavel conforme atribui valor para ela
+
+// dynamic variavelDinamica = 4 ; // o valor inteiro ela vai assumir o valor do tipo inteiro
+
+// Console.WriteLine($"Tipo de variavel: {variavelDinamica.GetType()}, Valor: {variavelDinamica} ");
+
+// variavelDinamica = "texto" ; // o valor inteiro ela vai assumir o valor do tipo inteiro
+
+// Console.WriteLine($"Tipo de variavel: {variavelDinamica.GetType()}, Valor: {variavelDinamica} ");
+
+// variavelDinamica = true ; // o valor inteiro ela vai assumir o valor do tipo inteiro
+
+// Console.WriteLine($"Tipo de variavel: {variavelDinamica.GetType()}, Valor: {variavelDinamica} ");
+
+//**** FIM variavel do tipo dinamica ****////
+
+// string conteudoArquivo = File.ReadAllText("Arquivos/vendas.json");
+// List<Venda> listaVenda = JsonConvert.DeserializeObject<List<Venda>>(conteudoArquivo);
+
+
+// // é como se fosse um select dos itens apenas que os campos que interessa
+// //OBJETO ANONIMO CONSEGUE LIMITAR COM O QUE DESEJA TRAZER.
+
+
+// var listaAnonimo = listaVenda.Select(x => new{x.Produto, x.Preco});
+
+// foreach (var venda in listaAnonimo)
+// {
+//     Console.WriteLine($"Produto: {venda.Produto}, Preço: {venda.Preco}");
+// }
+
 
 // // EXEMPLO DA AULA DE STACK, GEAP, GARBAGE COLLECTOR 
 
@@ -15,11 +78,11 @@ using System.Globalization;
 // Console.WriteLine($"Nome da pessoa p2: {p2.NomeCompleto}");
 
 
-int a = 10;
-int b = 1;
+// int a = 10;
+// int b = 1;
 
-Console.WriteLine($"Valor de A: {a}");
-Console.WriteLine($"Valor de B: {b}");
+// Console.WriteLine($"Valor de A: {a}");
+// Console.WriteLine($"Valor de B: {b}");
 
 
 
